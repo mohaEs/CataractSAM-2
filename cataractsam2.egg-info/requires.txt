@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pillow
+opencv-python
+jupyter-bbox-widget==0.6.0
+huggingface-hub

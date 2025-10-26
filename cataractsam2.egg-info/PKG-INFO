@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: cataractsam2
+Version: 0.1.0
+Summary: Domain‑adapted SAM‑2 for cataract surgery videos
+Author: Dhanvin Ganeshkumar
+License: Apache-2.0
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pillow
+Requires-Dist: opencv-python
+Requires-Dist: jupyter-bbox-widget==0.6.0
+Requires-Dist: huggingface-hub
+Dynamic: author
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
