@@ -11,7 +11,7 @@ def _read_requirements():
 
 setup(
     name="cataractsam2",
-    version="0.1.0",
+    version="1.1.0",
     packages=find_packages(),
     include_package_data=True,      # ships YAML inside cfg/
     package_data={"cataractsam2": ["cfg/*.yaml"]},

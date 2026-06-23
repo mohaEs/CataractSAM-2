@@ -1,2 +1,0 @@
-[hydra.searchpath]
-cataractsam2_cfg = cataractsam2.search_path_plugin:CataractSAM2SearchPathPlugin
