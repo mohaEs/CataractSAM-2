@@ -23,9 +23,11 @@ We introduce CataractSAM‑2, a domain-adapted extension of [SAM‑2](https://gi
 ## Backup Repository:
 An additional repository, for Google Colab, is available: https://github.com/mohaEs/CataractSAM-2
 
-## Annotation Tutorial
+## Annotation Tutorial (video)
 
 https://github.com/user-attachments/assets/bbd12ae9-ce1b-4756-b7d3-bc71fd6f43b4
+
+https://youtu.be/9WDnPTjwT_M
 
 ## Load from 🤗 Hugging Face
 
